@@ -1,5 +1,5 @@
 # ColorPicker
-type your color and get the hex of it 
+##Type your color and get the hex of it 
 
 ## Startt the app with 
 
