@@ -1,10 +1,10 @@
 #  ColorPicker
 ## Type your color and get the hex of it 
 
-## Startt the app with 
+## Start the app with 
 
 ```bash
-1. yarn install 
+1. yarn install or npm i 
 
 2. yarn start and color name 
 ```
