@@ -685,6 +685,10 @@ collection-visit@^1.0.0:
     map-visit "^1.0.0"
     object-visit "^1.0.0"
 
+color-name-list@^3.46.0:
+  version "3.46.0"
+  resolved "https://registry.yarnpkg.com/color-name-list/-/color-name-list-3.46.0.tgz#29a177376df54a1fcb07457670a02fb6f0351cbd"
+
 commander@^2.11.0:
   version "2.18.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.18.0.tgz#2bf063ddee7c7891176981a2cc798e5754bc6970"
@@ -1327,6 +1331,10 @@ nanomatch@^1.2.9:
     regex-not "^1.0.0"
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
+
+nearest-color@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/nearest-color/-/nearest-color-0.4.2.tgz#6ebd3a859969e76dd834e609beeecef73c3881e0"
 
 needle@^2.2.1:
   version "2.2.3"

@@ -2,7 +2,7 @@
   "name": "project-name",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Itamar Givon <itamar.givon.dev@gmail.com>",
+  "author": "Majed Shrendan",
   "license": "MIT",
   "private": true,
   "devDependencies": {
@@ -12,5 +12,9 @@
   "scripts": {
     "build": "babel src -d dist",
     "start": "yarn build && node dist/index.js"
+  },
+  "dependencies": {
+    "color-name-list": "^3.46.0",
+    "nearest-color": "^0.4.2"
   }
 }
